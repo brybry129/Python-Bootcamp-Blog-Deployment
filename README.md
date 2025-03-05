@@ -4,5 +4,5 @@ This is a capstone project from 100 Days of Code: The Complete Python Pro Bootca
 
 ## Install:
 ```sh
-python.exe -m pip install -r requirements.txt
+$ python.exe -m pip install -r requirements.txt
 ```
